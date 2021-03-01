@@ -1,3 +1,0 @@
-## Overall structure and syntax
-
-
