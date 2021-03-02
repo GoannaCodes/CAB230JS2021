@@ -13,5 +13,5 @@ As long as the condition is true, the loop will be repeated.
 ```
 do {
   //code to be executed
-} while (condition)
+} while (condition);
 ```
