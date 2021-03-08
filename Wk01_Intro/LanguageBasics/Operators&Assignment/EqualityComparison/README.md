@@ -5,7 +5,7 @@ JS has two sets of equality operators `===, !==` and `==, !=`.
 
 `==` and `!=` do the correct thing when operands are of the same type, but produce different results if values are different types.
 
-Noteable cases:\
+Noteable cases:
 ```
 '' == 0            //false
 0 == ''            //true
